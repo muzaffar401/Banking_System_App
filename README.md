@@ -1,6 +1,6 @@
 # 🏦 Advanced Banking System
 
-![Banking System Screenshot](![image](https://github.com/user-attachments/assets/e0c5bca9-4b34-46a1-ba19-473cc78f2926))
+![image](https://github.com/user-attachments/assets/dae166dc-21e7-4e41-b5c4-5f9bdc1be3e0)
 
 Welcome to the **Advanced Banking System**, a modern, secure, and feature-rich banking web application developed using **Streamlit**. This project simulates real-world banking operations with a focus on robust security, interactive dashboards, and an intuitive user interface.
 

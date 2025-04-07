@@ -1,6 +1,6 @@
 # 🏦 Advanced Banking System
 
-![Banking System Screenshot](https://via.placeholder.com/800x400.png?text=Advanced+Banking+System+Screenshot)
+![Banking System Screenshot](![image](https://github.com/user-attachments/assets/e0c5bca9-4b34-46a1-ba19-473cc78f2926))
 
 Welcome to the **Advanced Banking System**, a modern, secure, and feature-rich banking web application developed using **Streamlit**. This project simulates real-world banking operations with a focus on robust security, interactive dashboards, and an intuitive user interface.
 
@@ -114,8 +114,8 @@ Stay informed with smart dashboards:
 ### 📦 Installation
 1. **Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/advanced-banking-system.git
-cd advanced-banking-system
+git clone https://github.com/muzaffar401/Banking_System_App.git
+cd Banking_System_App
 ```
 
 2. **Install Dependencies**
@@ -125,7 +125,7 @@ pip install -r requirements.txt
 
 3. **Run the App**
 ```bash
-streamlit run app.py
+streamlit run main.py
 ```
 
 > Access the app at: [http://localhost:8501](http://localhost:8501)
